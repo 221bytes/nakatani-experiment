@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlexandreExperiment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="server_client_id">1051711698267-cuaelha2n46eus8eiivheuc8b9cf5dnp.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
